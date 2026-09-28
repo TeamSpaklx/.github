@@ -15,6 +15,6 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=idea,github,vscode,figma" />
 </p>
 
