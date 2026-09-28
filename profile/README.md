@@ -10,11 +10,11 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,notion" />
 </p>
 
