@@ -4,3 +4,17 @@
 | **[이윤재](https://github.com/Linkshimcat)** | **[고희경](https://github.com/heekungkkk)** | **[김규리](https://github.com/gy-urii)** |
 | FE developer | BE developer | BE developer |
 
+-------------------------------
+
+### 🛠️TECH STACK
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+</p>
+
