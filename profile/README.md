@@ -10,7 +10,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,supabasse,firebase,swift" />
 </p>
 
 ### Tools
