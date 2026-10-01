@@ -10,11 +10,11 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,supabase,firebase,swift,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,swift,kotlin" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,notion,discord" />
+  <img src="https://skillicons.dev/icons?i=github,discord,vscode,figma,notion,androidstudio,supabase,firebase" />
 </p>
 
